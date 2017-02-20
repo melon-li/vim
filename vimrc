@@ -74,3 +74,13 @@ set expandtab
 
 let Tlist_Auto_Open=1
 set tags=tags;
+
+"
+" taglist
+"
+let Tlist_Show_One_File=1
+let Tlist_WinWidth=40 
+let Tlist_Exit_OnlyWindow=1
+"let Tlist_Use_Right_Window=1
+set mouse=a  " always use mouse
+let Tlist_Use_SingleClick=1
